@@ -1,0 +1,764 @@
+Token,POS,Tags,Dep,Explanation
+Brandi,PROPN,NNP,compound,"noun, proper singular"
+Levy,PROPN,NNP,nsubj,"noun, proper singular"
+wears,VERB,VBZ,ROOT,"verb, 3rd person singular present"
+her,PRON,PRP$,poss,"pronoun, possessive"
+former,ADJ,JJ,amod,adjective
+cheerleading,NOUN,NN,compound,"noun, singular or mass"
+outfit,NOUN,NN,dobj,"noun, singular or mass"
+as,ADP,IN,mark,"conjunction, subordinating or preposition"
+she,PRON,PRP,nsubj,"pronoun, personal"
+looks,VERB,VBZ,advcl,"verb, 3rd person singular present"
+at,ADP,IN,prep,"conjunction, subordinating or preposition"
+her,PRON,PRP$,poss,"pronoun, possessive"
+mobile,ADJ,JJ,amod,adjective
+phone,NOUN,NN,pobj,"noun, singular or mass"
+while,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+sitting,VERB,VBG,advcl,"verb, gerund or present participle"
+outside,ADP,IN,prep,"conjunction, subordinating or preposition"
+Mahanoy,PROPN,NNP,compound,"noun, proper singular"
+Area,PROPN,NNP,compound,"noun, proper singular"
+High,PROPN,NNP,compound,"noun, proper singular"
+School,PROPN,NNP,pobj,"noun, proper singular"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+Mahanoy,PROPN,NNP,compound,"noun, proper singular"
+City,PROPN,NNP,pobj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+Pa.,PROPN,NNP,appos,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+on,ADP,IN,prep,"conjunction, subordinating or preposition"
+April,PROPN,NNP,pobj,"noun, proper singular"
+4.Facing,NUM,CD,nummod,cardinal number
+its,PRON,PRP$,poss,"pronoun, possessive"
+biggest,ADJ,JJS,amod,"adjective, superlative"
+student,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,compound,"noun, singular or mass"
+case,NOUN,NN,pobj,"noun, singular or mass"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+a,DET,DT,det,determiner
+half,ADJ,JJ,amod,adjective
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+century,NOUN,NN,pobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+the,DET,DT,det,determiner
+Supreme,PROPN,NNP,compound,"noun, proper singular"
+Court,PROPN,NNP,nsubj,"noun, proper singular"
+seemed,VERB,VBD,conj,"verb, past tense"
+to,PART,TO,aux,"infinitival ""to"""
+be,AUX,VB,aux,"verb, base form"
+looking,VERB,VBG,xcomp,"verb, gerund or present participle"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+a,DET,DT,det,determiner
+narrow,ADJ,JJ,amod,adjective
+exit,NOUN,NN,compound,"noun, singular or mass"
+door,NOUN,NN,pobj,"noun, singular or mass"
+on,ADP,IN,prep,"conjunction, subordinating or preposition"
+Wednesday,PROPN,NNP,pobj,"noun, proper singular"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+At,ADP,IN,prep,"conjunction, subordinating or preposition"
+issue,NOUN,NN,pobj,"noun, singular or mass"
+was,AUX,VBD,ROOT,"verb, past tense"
+whether,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+schools,NOUN,NNS,nsubj,"noun, plural"
+may,AUX,MD,aux,"verb, modal auxiliary"
+punish,VERB,VB,ccomp,"verb, base form"
+students,NOUN,NNS,dobj,"noun, plural"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+speech,NOUN,NN,pobj,"noun, singular or mass"
+that,DET,WDT,nsubj,wh-determiner
+occurs,VERB,VBZ,relcl,"verb, 3rd person singular present"
+online,ADV,RB,advmod,adverb
+and,CCONJ,CC,cc,"conjunction, coordinating"
+off,ADP,IN,conj,"conjunction, subordinating or preposition"
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,npadvmod,"noun, singular or mass"
+but,CCONJ,CC,cc,"conjunction, coordinating"
+that,DET,DT,nsubj,determiner
+may,AUX,MD,aux,"verb, modal auxiliary"
+affect,VERB,VB,conj,"verb, base form"
+school,NOUN,NN,compound,"noun, singular or mass"
+order,NOUN,NN,dobj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+The,DET,DT,det,determiner
+case,NOUN,NN,nsubjpass,"noun, singular or mass"
+has,AUX,VBZ,aux,"verb, 3rd person singular present"
+been,AUX,VBN,auxpass,"verb, past participle"
+billed,VERB,VBN,ROOT,"verb, past participle"
+as,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+most,ADV,RBS,advmod,"adverb, superlative"
+important,ADJ,JJ,amod,adjective
+student,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,compound,"noun, singular or mass"
+case,NOUN,NN,pobj,"noun, singular or mass"
+since,SCONJ,IN,prep,"conjunction, subordinating or preposition"
+1969,NUM,CD,pobj,cardinal number
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,ROOT,
+That,DET,DT,det,determiner
+landmark,NOUN,NN,compound,"noun, singular or mass"
+ruling,NOUN,NN,nsubj,"noun, singular or mass"
+came,VERB,VBD,ROOT,"verb, past tense"
+at,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+height,NOUN,NN,pobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+Vietnam,PROPN,NNP,compound,"noun, proper singular"
+War,PROPN,NNP,pobj,"noun, proper singular"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+Mary,PROPN,NNP,compound,"noun, proper singular"
+Beth,PROPN,NNP,compound,"noun, proper singular"
+Tinker,PROPN,NNP,nsubj,"noun, proper singular"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+four,NUM,CD,nummod,cardinal number
+other,ADJ,JJ,amod,adjective
+students,NOUN,NNS,conj,"noun, plural"
+went,VERB,VBD,ROOT,"verb, past tense"
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+court,NOUN,NN,pobj,"noun, singular or mass"
+after,ADP,IN,mark,"conjunction, subordinating or preposition"
+they,PRON,PRP,nsubjpass,"pronoun, personal"
+were,AUX,VBD,auxpass,"verb, past tense"
+suspended,VERB,VBN,advcl,"verb, past participle"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+wearing,VERB,VBG,pcomp,"verb, gerund or present participle"
+black,ADJ,JJ,amod,adjective
+armbands,NOUN,NNS,dobj,"noun, plural"
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+school,NOUN,NN,pobj,"noun, singular or mass"
+to,PART,TO,aux,"infinitival ""to"""
+protest,VERB,VB,advcl,"verb, base form"
+the,DET,DT,det,determiner
+war,NOUN,NN,dobj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+By,ADP,IN,prep,"conjunction, subordinating or preposition"
+a,DET,DT,det,determiner
+vote,NOUN,NN,pobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+7,NUM,CD,quantmod,cardinal number
+to,ADP,IN,quantmod,"conjunction, subordinating or preposition"
+2,NUM,CD,pobj,cardinal number
+",",PUNCT,",",punct,"punctuation mark, comma"
+the,DET,DT,det,determiner
+high,ADJ,JJ,amod,adjective
+court,NOUN,NN,nsubj,"noun, singular or mass"
+ruled,VERB,VBD,ROOT,"verb, past tense"
+at,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+time,NOUN,NN,pobj,"noun, singular or mass"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+first,ADJ,JJ,amod,adjective
+time,NOUN,NN,pobj,"noun, singular or mass"
+that,DET,WDT,advmod,wh-determiner
+kids,NOUN,NNS,nsubj,"noun, plural"
+do,AUX,VBP,aux,"verb, non-3rd person singular present"
+have,VERB,VB,relcl,"verb, base form"
+First,PROPN,NNP,nmod,"noun, proper singular"
+Amendment,PROPN,NNP,nmod,"noun, proper singular"
+free,ADJ,JJ,amod,adjective
+speech,NOUN,NN,compound,"noun, singular or mass"
+rights,NOUN,NNS,dobj,"noun, plural"
+at,ADP,IN,prep,"conjunction, subordinating or preposition"
+school,NOUN,NN,pobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+unless,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+school,NOUN,NN,compound,"noun, singular or mass"
+officials,NOUN,NNS,nsubj,"noun, plural"
+reasonably,ADV,RB,advmod,adverb
+forecast,VERB,VBP,advcl,"verb, non-3rd person singular present"
+it,PRON,PRP,nsubj,"pronoun, personal"
+will,AUX,MD,aux,"verb, modal auxiliary"
+cause,VERB,VB,ccomp,"verb, base form"
+disruptions,NOUN,NNS,dobj,"noun, plural"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+Wednesday,PROPN,NNP,poss,"noun, proper singular"
+'s,PART,POS,case,possessive ending
+case,NOUN,NN,nsubj,"noun, singular or mass"
+did,AUX,VBD,aux,"verb, past tense"
+not,PART,RB,neg,adverb
+involve,VERB,VB,ROOT,"verb, base form"
+such,ADJ,JJ,amod,adjective
+serious,ADJ,JJ,amod,adjective
+speech,NOUN,NN,dobj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,ROOT,
+And,CCONJ,CC,cc,"conjunction, coordinating"
+on,ADP,IN,prep,"conjunction, subordinating or preposition"
+Wednesday,PROPN,NNP,pobj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+the,DET,DT,det,determiner
+Supreme,PROPN,NNP,compound,"noun, proper singular"
+Court,PROPN,NNP,nsubj,"noun, proper singular"
+faced,VERB,VBD,ccomp,"verb, past tense"
+a,DET,DT,det,determiner
+question,NOUN,NN,dobj,"noun, singular or mass"
+that,DET,WDT,nsubj,wh-determiner
+did,AUX,VBD,aux,"verb, past tense"
+not,PART,RB,neg,adverb
+exist,VERB,VB,relcl,"verb, base form"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+1969,NUM,CD,pobj,cardinal number
+:,PUNCT,:,punct,"punctuation mark, colon or ellipsis"
+Can,AUX,MD,aux,"verb, modal auxiliary"
+schools,NOUN,NNS,nsubj,"noun, plural"
+punish,VERB,VB,ROOT,"verb, base form"
+students,NOUN,NNS,dobj,"noun, plural"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+their,PRON,PRP$,poss,"pronoun, possessive"
+online,ADJ,JJ,amod,adjective
+but,CCONJ,CC,cc,"conjunction, coordinating"
+off,ADP,IN,conj,"conjunction, subordinating or preposition"
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,compound,"noun, singular or mass"
+speech?Justice,NOUN,NN,pobj,"noun, singular or mass"
+Stephen,PROPN,NNP,compound,"noun, proper singular"
+Breyer,PROPN,NNP,nsubj,"noun, proper singular"
+got,VERB,VBD,advcl,"verb, past tense"
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+heart,NOUN,NN,pobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+matter,NOUN,NN,pobj,"noun, singular or mass"
+quickly,ADV,RB,advmod,adverb
+",",PUNCT,",",punct,"punctuation mark, comma"
+wondering,VERB,VBG,advcl,"verb, gerund or present participle"
+whether,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+online,ADV,RB,nsubj,adverb
+swearing,VERB,VBG,nsubj,"verb, gerund or present participle"
+off,ADP,IN,prt,"conjunction, subordinating or preposition"
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,dobj,"noun, singular or mass"
+should,AUX,MD,aux,"verb, modal auxiliary"
+even,ADV,RB,advmod,adverb
+qualify,VERB,VB,ccomp,"verb, base form"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+school,NOUN,NN,compound,"noun, singular or mass"
+punishment,NOUN,NN,pobj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,punct,
+"""",PUNCT,``,punct,opening quotation mark
+If,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+swearing,VERB,VBG,advcl,"verb, gerund or present participle"
+off,ADP,RP,prt,"adverb, particle"
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,dobj,"noun, singular or mass"
+did,AUX,VBD,aux,"verb, past tense"
+[,PUNCT,-LRB-,punct,left round bracket
+qualify,VERB,VB,advcl,"verb, base form"
+],PUNCT,-RRB-,punct,right round bracket
+",",PUNCT,",",punct,"punctuation mark, comma"
+my,PRON,PRP$,poss,"pronoun, possessive"
+goodness,NOUN,NN,npadvmod,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+every,DET,DT,det,determiner
+school,NOUN,NN,nsubj,"noun, singular or mass"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+country,NOUN,NN,pobj,"noun, singular or mass"
+would,AUX,MD,aux,"verb, modal auxiliary"
+be,AUX,VB,aux,"verb, base form"
+doing,VERB,VBG,ccomp,"verb, gerund or present participle"
+nothing,PRON,NN,dobj,"noun, singular or mass"
+but,CCONJ,CC,prep,"conjunction, coordinating"
+punishing,VERB,VBG,pobj,"verb, gerund or present participle"
+",",PUNCT,",",punct,"punctuation mark, comma"
+"""",PUNCT,'',punct,closing quotation mark
+he,PRON,PRP,nsubj,"pronoun, personal"
+said,VERB,VBD,ROOT,"verb, past tense"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+Justice,PROPN,NNP,compound,"noun, proper singular"
+Sonia,PROPN,NNP,compound,"noun, proper singular"
+Sotomayor,PROPN,NNP,nsubj,"noun, proper singular"
+chimed,VERB,VBD,ROOT,"verb, past tense"
+in,ADP,RP,prt,"adverb, particle"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,punct,
+"""",PUNCT,``,punct,opening quotation mark
+Kids,NOUN,NNS,nsubj,"noun, plural"
+basically,ADV,RB,advmod,adverb
+talk,VERB,VBP,ccomp,"verb, non-3rd person singular present"
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+classmates,NOUN,NNS,pobj,"noun, plural"
+",",PUNCT,",",punct,"punctuation mark, comma"
+most,ADJ,JJS,nsubj,"adjective, superlative"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+their,PRON,PRP$,poss,"pronoun, possessive"
+exchanges,NOUN,NNS,pobj,"noun, plural"
+have,VERB,VBP,ROOT,"verb, non-3rd person singular present"
+to,PART,TO,aux,"infinitival ""to"""
+do,VERB,VB,xcomp,"verb, base form"
+with,ADP,IN,prep,"conjunction, subordinating or preposition"
+their,PRON,PRP$,poss,"pronoun, possessive"
+perceptions,NOUN,NNS,pobj,"noun, plural"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+authoritarian,ADJ,JJ,amod,adjective
+nature,NOUN,NN,pobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+their,PRON,PRP$,poss,"pronoun, possessive"
+teachers,NOUN,NNS,pobj,"noun, plural"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+others,NOUN,NNS,conj,"noun, plural"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"""Justice",VERB,VB,compound,"verb, base form"
+Brett,PROPN,NNP,compound,"noun, proper singular"
+Kavanaugh,PROPN,NNP,nsubj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+who,PRON,WP,nsubj,"wh-pronoun, personal"
+coaches,VERB,VBZ,relcl,"verb, 3rd person singular present"
+his,PRON,PRP$,poss,"pronoun, possessive"
+daughters,NOUN,NNS,poss,"noun, plural"
+',PART,POS,case,possessive ending
+sports,NOUN,NNS,compound,"noun, plural"
+teams,NOUN,NNS,dobj,"noun, plural"
+",",PUNCT,",",punct,"punctuation mark, comma"
+seemed,VERB,VBD,ROOT,"verb, past tense"
+to,PART,TO,aux,"infinitival ""to"""
+understand,VERB,VB,xcomp,"verb, base form"
+Brandi,PROPN,NNP,poss,"noun, proper singular"
+'s,PART,POS,case,possessive ending
+frustration,NOUN,NN,dobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+acknowledging,VERB,VBG,advcl,"verb, gerund or present participle"
+that,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+even,ADV,RB,advmod,adverb
+NBA,PROPN,NNP,compound,"noun, proper singular"
+legend,NOUN,NN,compound,"noun, singular or mass"
+Michael,PROPN,NNP,compound,"noun, proper singular"
+Jordan,PROPN,NNP,nsubj,"noun, proper singular"
+had,VERB,VBD,ccomp,"verb, past tense"
+sore,ADJ,JJ,amod,adjective
+feelings,NOUN,NNS,dobj,"noun, plural"
+more,ADJ,JJR,amod,"adjective, comparative"
+than,SCONJ,IN,quantmod,"conjunction, subordinating or preposition"
+40,NUM,CD,nummod,cardinal number
+years,NOUN,NNS,npadvmod,"noun, plural"
+after,ADP,IN,prep,"conjunction, subordinating or preposition"
+not,PART,RB,neg,adverb
+making,VERB,VBG,pcomp,"verb, gerund or present participle"
+the,DET,DT,det,determiner
+varsity,NOUN,NN,compound,"noun, singular or mass"
+team,NOUN,NN,dobj,"noun, singular or mass"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+high,ADJ,JJ,amod,adjective
+school,NOUN,NN,pobj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,ROOT,
+Siding,VERB,VBG,advcl,"verb, gerund or present participle"
+with,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+Mahanoy,PROPN,NNP,compound,"noun, proper singular"
+school,NOUN,NN,compound,"noun, singular or mass"
+district,NOUN,NN,pobj,"noun, singular or mass"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+case,NOUN,NN,pobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+the,DET,DT,det,determiner
+Justice,PROPN,NNP,compound,"noun, proper singular"
+Department,PROPN,NNP,nsubj,"noun, proper singular"
+argued,VERB,VBD,ROOT,"verb, past tense"
+that,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+schools,NOUN,NNS,nsubj,"noun, plural"
+could,AUX,MD,aux,"verb, modal auxiliary"
+regulate,VERB,VB,ccomp,"verb, base form"
+off,ADP,IN,nmod,"conjunction, subordinating or preposition"
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,pobj,"noun, singular or mass"
+speech,NOUN,NN,dobj,"noun, singular or mass"
+only,ADV,RB,advmod,adverb
+if,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+it,PRON,PRP,nsubjpass,"pronoun, personal"
+is,AUX,VBZ,auxpass,"verb, 3rd person singular present"
+related,VERB,VBN,advcl,"verb, past participle"
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+school,NOUN,NN,compound,"noun, singular or mass"
+matters,NOUN,NNS,pobj,"noun, plural"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+could,AUX,MD,aux,"verb, modal auxiliary"
+cause,VERB,VB,conj,"verb, base form"
+a,DET,DT,det,determiner
+"""",PUNCT,``,punct,opening quotation mark
+substantial,ADJ,JJ,amod,adjective
+disruption,NOUN,NN,dobj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"""""That",DET,DT,nsubj,determiner
+means,VERB,VBZ,ccomp,"verb, 3rd person singular present"
+really,ADV,RB,advmod,adverb
+everything,PRON,NN,dobj,"noun, singular or mass"
+that,DET,WDT,nsubj,wh-determiner
+mentions,VERB,VBZ,relcl,"verb, 3rd person singular present"
+a,DET,DT,det,determiner
+school,NOUN,NN,dobj,"noun, singular or mass"
+at,ADV,RB,advmod,adverb
+all,ADV,RB,advmod,adverb
+is,AUX,VBZ,ccomp,"verb, 3rd person singular present"
+school,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,attr,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+right,ADJ,JJ,advmod,adjective
+?,PUNCT,.,punct,"punctuation mark, sentence closer"
+"""",PUNCT,'',punct,closing quotation mark
+asked,VERB,VBD,ROOT,"verb, past tense"
+a,DET,DT,det,determiner
+skeptical,ADJ,JJ,amod,adjective
+Justice,PROPN,NNP,compound,"noun, proper singular"
+Elena,PROPN,NNP,compound,"noun, proper singular"
+Kagan,PROPN,NNP,dobj,"noun, proper singular"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+Deputy,PROPN,NNP,compound,"noun, proper singular"
+Solicitor,PROPN,NNP,compound,"noun, proper singular"
+General,PROPN,NNP,compound,"noun, proper singular"
+Malcolm,PROPN,NNP,compound,"noun, proper singular"
+Stewart,PROPN,NNP,nsubj,"noun, proper singular"
+tried,VERB,VBD,ROOT,"verb, past tense"
+to,PART,TO,aux,"infinitival ""to"""
+offer,VERB,VB,xcomp,"verb, base form"
+a,DET,DT,det,determiner
+nuanced,VERB,VBN,amod,"verb, past participle"
+distinction,NOUN,NN,dobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+but,CCONJ,CC,cc,"conjunction, coordinating"
+Kagan,PROPN,NNP,nsubj,"noun, proper singular"
+was,AUX,VBD,aux,"verb, past tense"
+having,VERB,VBG,conj,"verb, gerund or present participle"
+none,NOUN,NN,dobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+it,PRON,PRP,pobj,"pronoun, personal"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,punct,
+Cutting,VERB,VBG,advcl,"verb, gerund or present participle"
+right,ADV,RB,dobj,adverb
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+question,NOUN,NN,pobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+which,DET,WDT,det,wh-determiner
+speech,NOUN,NN,nsubj,"noun, singular or mass"
+is,VERB,VBZ,pcomp,"verb, 3rd person singular present"
+punishable,ADJ,JJ,acomp,adjective
+",",PUNCT,",",punct,"punctuation mark, comma"
+she,PRON,PRP,nsubj,"pronoun, personal"
+asked,VERB,VBD,ROOT,"verb, past tense"
+",",PUNCT,",",punct,"punctuation mark, comma"
+"""",PUNCT,``,punct,opening quotation mark
+Can,AUX,MD,aux,"verb, modal auxiliary"
+I,PRON,PRP,nsubj,"pronoun, personal"
+give,VERB,VB,ccomp,"verb, base form"
+you,PRON,PRP,dative,"pronoun, personal"
+a,DET,DT,quantmod,determiner
+few,ADJ,JJ,amod,adjective
+hypotheticals,NOUN,NNS,dobj,"noun, plural"
+",",PUNCT,",",punct,"punctuation mark, comma"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+you,PRON,PRP,nsubj,"pronoun, personal"
+just,ADV,RB,advmod,adverb
+tell,VERB,VBP,conj,"verb, non-3rd person singular present"
+me,PRON,PRP,dative,"pronoun, personal"
+school,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,dobj,"noun, singular or mass"
+or,CCONJ,CC,cc,"conjunction, coordinating"
+not,PART,RB,neg,adverb
+school,NOUN,NN,conj,"noun, singular or mass"
+"speech?""Each",NOUN,NN,appos,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+these,DET,DT,pobj,determiner
+",",PUNCT,",",punct,"punctuation mark, comma"
+conceded,VERB,VBD,xcomp,"verb, past tense"
+Stewart,PROPN,NNP,dobj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+would,AUX,MD,aux,"verb, modal auxiliary"
+be,AUX,VB,auxpass,"verb, base form"
+considered,VERB,VBN,ccomp,"verb, past participle"
+school,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,oprd,"noun, singular or mass"
+under,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+standard,NOUN,NN,pobj,"noun, singular or mass"
+proposed,VERB,VBN,acl,"verb, past participle"
+by,ADP,IN,agent,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+Justice,PROPN,NNP,compound,"noun, proper singular"
+Department,PROPN,NNP,pobj,"noun, proper singular"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,ROOT,
+In,ADP,IN,prep,"conjunction, subordinating or preposition"
+other,ADJ,JJ,amod,adjective
+words,NOUN,NNS,pobj,"noun, plural"
+",",PUNCT,",",punct,"punctuation mark, comma"
+all,DET,DT,nsubj,determiner
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+these,DET,DT,det,determiner
+messages,NOUN,NNS,pobj,"noun, plural"
+sent,VERB,VBN,acl,"verb, past participle"
+from,ADP,IN,prep,"conjunction, subordinating or preposition"
+off,ADP,IN,prep,"conjunction, subordinating or preposition"
+campus,NOUN,NN,pobj,"noun, singular or mass"
+might,AUX,MD,aux,"verb, modal auxiliary"
+well,ADV,RB,advmod,adverb
+be,VERB,VB,ROOT,"verb, base form"
+punishable,ADJ,JJ,amod,adjective
+school,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,attr,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+The,DET,DT,det,determiner
+ACLU,PROPN,NNP,poss,"noun, proper singular"
+'s,PART,POS,case,possessive ending
+David,PROPN,NNP,compound,"noun, proper singular"
+Cole,PROPN,NNP,nsubj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+representing,VERB,VBG,acl,"verb, gerund or present participle"
+Brandi,PROPN,NNP,compound,"noun, proper singular"
+Levy,PROPN,NNP,dobj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+said,VERB,VBD,ROOT,"verb, past tense"
+that,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+once,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+schools,NOUN,NNS,nsubj,"noun, plural"
+can,AUX,MD,aux,"verb, modal auxiliary"
+discipline,VERB,VB,advcl,"verb, base form"
+students,NOUN,NNS,dobj,"noun, plural"
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+off,ADP,IN,nmod,"conjunction, subordinating or preposition"
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,pobj,"noun, singular or mass"
+speech,NOUN,NN,pobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+that,DET,WDT,nsubj,wh-determiner
+would,AUX,MD,aux,"verb, modal auxiliary"
+dramatically,ADV,RB,advmod,adverb
+expand,VERB,VB,ccomp,"verb, base form"
+the,DET,DT,det,determiner
+disciplinary,ADJ,JJ,amod,adjective
+reach,NOUN,NN,dobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+schools,NOUN,NNS,pobj,"noun, plural"
+set,VERB,VBN,acl,"verb, past participle"
+out,ADP,RP,prt,"adverb, particle"
+by,ADP,IN,agent,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+court,NOUN,NN,pobj,"noun, singular or mass"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+Tinker,PROPN,NNP,compound,"noun, proper singular"
+case,NOUN,NN,pobj,"noun, singular or mass"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+"1969.""Expanding",VERB,VBG,pcomp,"verb, gerund or present participle"
+Tinker,PROPN,NNP,nsubj,"noun, proper singular"
+would,AUX,MD,aux,"verb, modal auxiliary"
+transform,VERB,VB,ccomp,"verb, base form"
+a,DET,DT,det,determiner
+limited,ADJ,JJ,amod,adjective
+exception,NOUN,NN,dobj,"noun, singular or mass"
+into,ADP,IN,prep,"conjunction, subordinating or preposition"
+a,DET,DT,det,determiner
+24/7,NUM,CD,nummod,cardinal number
+rule,NOUN,NN,pobj,"noun, singular or mass"
+that,DET,WDT,nsubj,wh-determiner
+would,AUX,MD,aux,"verb, modal auxiliary"
+upend,VERB,VB,relcl,"verb, base form"
+the,DET,DT,det,determiner
+First,PROPN,NNP,compound,"noun, proper singular"
+Amendment,PROPN,NNP,poss,"noun, proper singular"
+'s,PART,POS,case,possessive ending
+bedrock,NOUN,NN,compound,"noun, singular or mass"
+principle,NOUN,NN,dobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+"""",PUNCT,'',punct,closing quotation mark
+argued,VERB,VBD,ccomp,"verb, past tense"
+Cole,PROPN,NNP,nsubj,"noun, proper singular"
+",",PUNCT,",",punct,"punctuation mark, comma"
+"""",PUNCT,'',punct,closing quotation mark
+and,CCONJ,CC,cc,"conjunction, coordinating"
+would,AUX,MD,aux,"verb, modal auxiliary"
+require,VERB,VB,conj,"verb, base form"
+students,NOUN,NNS,dobj,"noun, plural"
+to,PART,TO,aux,"infinitival ""to"""
+effectively,ADV,RB,advmod,adverb
+carry,VERB,VB,xcomp,"verb, base form"
+the,DET,DT,det,determiner
+schoolhouse,NOUN,NN,dobj,"noun, singular or mass"
+on,ADP,IN,prep,"conjunction, subordinating or preposition"
+their,PRON,PRP$,poss,"pronoun, possessive"
+backs,NOUN,NNS,pobj,"noun, plural"
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+terms,NOUN,NNS,pobj,"noun, plural"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+speech,NOUN,NN,compound,"noun, singular or mass"
+rights,NOUN,NNS,pobj,"noun, plural"
+everywhere,ADV,RB,advmod,adverb
+they,PRON,PRP,nsubj,"pronoun, personal"
+go,VERB,VBP,relcl,"verb, non-3rd person singular present"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"""But",INTJ,UH,intj,interjection
+",",PUNCT,",",punct,"punctuation mark, comma"
+the,DET,DT,det,determiner
+justices,NOUN,NNS,nsubj,"noun, plural"
+wanted,VERB,VBD,ROOT,"verb, past tense"
+to,PART,TO,aux,"infinitival ""to"""
+know,VERB,VB,xcomp,"verb, base form"
+",",PUNCT,",",punct,"punctuation mark, comma"
+what,PRON,WP,dep,"wh-pronoun, personal"
+about,ADP,IN,prep,"conjunction, subordinating or preposition"
+cases,NOUN,NNS,pobj,"noun, plural"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+harassment,NOUN,NN,pobj,"noun, singular or mass"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+bullying,NOUN,NN,conj,"noun, singular or mass"
+?,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,punct,
+After,ADV,RB,advmod,adverb
+all,ADV,RB,advmod,adverb
+",",PUNCT,",",punct,"punctuation mark, comma"
+some,DET,DT,quantmod,determiner
+47,NUM,CD,nummod,cardinal number
+states,NOUN,NNS,nsubj,"noun, plural"
+require,VERB,VBP,ROOT,"verb, non-3rd person singular present"
+enforcement,NOUN,NN,dobj,"noun, singular or mass"
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+anti,ADJ,JJ,amod,adjective
+-,ADJ,JJ,amod,adjective
+bullying,ADJ,JJ,amod,adjective
+laws,NOUN,NNS,pobj,"noun, plural"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+Justice,PROPN,NNP,compound,"noun, proper singular"
+Kagan,PROPN,NNP,nsubj,"noun, proper singular"
+posited,VERB,VBD,ROOT,"verb, past tense"
+an,DET,DT,det,determiner
+off,ADJ,JJ,amod,adjective
+-,PUNCT,HYPH,punct,"punctuation mark, hyphen"
+campus,NOUN,NN,compound,"noun, singular or mass"
+website,NOUN,NN,dobj,"noun, singular or mass"
+set,VERB,VBN,acl,"verb, past participle"
+up,ADP,RP,prt,"adverb, particle"
+by,ADP,IN,agent,"conjunction, subordinating or preposition"
+high,ADJ,JJ,amod,adjective
+school,NOUN,NN,compound,"noun, singular or mass"
+boys,NOUN,NNS,pobj,"noun, plural"
+to,PART,TO,aux,"infinitival ""to"""
+rank,VERB,VB,advcl,"verb, base form"
+their,PRON,PRP$,poss,"pronoun, possessive"
+female,ADJ,JJ,amod,adjective
+classmates,NOUN,NNS,compound,"noun, plural"
+appearance,NOUN,NN,dobj,"noun, singular or mass"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+sexual,ADJ,JJ,amod,adjective
+availability,NOUN,NN,conj,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,ROOT,
+All,DET,DT,nsubj,determiner
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+justices,NOUN,NNS,pobj,"noun, plural"
+probed,VERB,VBD,ROOT,"verb, past tense"
+repeatedly,ADV,RB,advmod,adverb
+for,ADP,IN,prep,"conjunction, subordinating or preposition"
+workable,ADJ,JJ,amod,adjective
+standard,NOUN,NN,pobj,"noun, singular or mass"
+to,PART,TO,aux,"infinitival ""to"""
+adopt,VERB,VB,acl,"verb, base form"
+—,PUNCT,:,punct,"punctuation mark, colon or ellipsis"
+a,DET,DT,det,determiner
+rule,NOUN,NN,dobj,"noun, singular or mass"
+that,DET,WDT,nsubj,wh-determiner
+would,AUX,MD,aux,"verb, modal auxiliary"
+guide,VERB,VB,relcl,"verb, base form"
+schools,NOUN,NNS,dobj,"noun, plural"
+as,ADP,IN,prep,"conjunction, subordinating or preposition"
+to,ADP,IN,prep,"conjunction, subordinating or preposition"
+how,ADV,WRB,advmod,wh-adverb
+to,PART,TO,aux,"infinitival ""to"""
+handle,VERB,VB,pcomp,"verb, base form"
+these,DET,DT,det,determiner
+tricky,ADJ,JJ,amod,adjective
+questions,NOUN,NNS,dobj,"noun, plural"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+Cole,PROPN,NNP,nsubj,"noun, proper singular"
+said,VERB,VBD,ROOT,"verb, past tense"
+student,NOUN,NN,compound,"noun, singular or mass"
+speech,NOUN,NN,nsubjpass,"noun, singular or mass"
+should,AUX,MD,aux,"verb, modal auxiliary"
+be,AUX,VB,auxpass,"verb, base form"
+protected,VERB,VBN,ccomp,"verb, past participle"
+online,ADV,RB,advmod,adverb
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"
+",SPACE,_SP,ROOT,
+"""",PUNCT,``,punct,opening quotation mark
+Outside,ADJ,JJ,advmod,adjective
+of,ADP,IN,prep,"conjunction, subordinating or preposition"
+school,NOUN,NN,pobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+the,DET,DT,det,determiner
+priority,NOUN,NN,nsubj,"noun, singular or mass"
+is,AUX,VBZ,ccomp,"verb, 3rd person singular present"
+not,PART,RB,neg,adverb
+to,PART,TO,aux,"infinitival ""to"""
+give,VERB,VB,xcomp,"verb, base form"
+the,DET,DT,det,determiner
+school,NOUN,NN,compound,"noun, singular or mass"
+discretion,NOUN,NN,dobj,"noun, singular or mass"
+to,PART,TO,aux,"infinitival ""to"""
+regulate,VERB,VB,advcl,"verb, base form"
+kids,NOUN,NNS,poss,"noun, plural"
+',PART,POS,case,possessive ending
+speech,NOUN,NN,dobj,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+"""",PUNCT,'',punct,closing quotation mark
+he,PRON,PRP,nsubj,"pronoun, personal"
+said,VERB,VBD,ROOT,"verb, past tense"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+But,CCONJ,CC,cc,"conjunction, coordinating"
+the,DET,DT,det,determiner
+school,NOUN,NN,compound,"noun, singular or mass"
+district,NOUN,NN,poss,"noun, singular or mass"
+'s,PART,POS,case,possessive ending
+lawyer,NOUN,NN,meta,"noun, singular or mass"
+",",PUNCT,",",punct,"punctuation mark, comma"
+Lisa,PROPN,NNP,compound,"noun, proper singular"
+Blatt,PROPN,NNP,nsubj,"noun, proper singular"
+said,VERB,VBD,ROOT,"verb, past tense"
+that,SCONJ,IN,mark,"conjunction, subordinating or preposition"
+standard,NOUN,NN,nsubj,"noun, singular or mass"
+would,AUX,MD,aux,"verb, modal auxiliary"
+be,VERB,VB,ccomp,"verb, base form"
+a,DET,DT,det,determiner
+"""",PUNCT,``,punct,opening quotation mark
+nightmare,NOUN,NN,attr,"noun, singular or mass"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
+"""",PUNCT,``,punct,opening quotation mark
+It,PRON,PRP,nsubj,"pronoun, personal"
+would,AUX,MD,aux,"verb, modal auxiliary"
+",",PUNCT,",",punct,"punctuation mark, comma"
+she,PRON,PRP,nsubj,"pronoun, personal"
+said,VERB,VBD,parataxis,"verb, past tense"
+",",PUNCT,",",punct,"punctuation mark, comma"
+mean,VERB,VBP,ROOT,"verb, non-3rd person singular present"
+"""",PUNCT,``,punct,opening quotation mark
+open,ADJ,JJ,amod,adjective
+season,NOUN,NN,dobj,"noun, singular or mass"
+"""",PUNCT,'',punct,closing quotation mark
+on,ADP,IN,prep,"conjunction, subordinating or preposition"
+schools,NOUN,NNS,pobj,"noun, plural"
+and,CCONJ,CC,cc,"conjunction, coordinating"
+produce,VERB,VB,conj,"verb, base form"
+"""",PUNCT,``,punct,opening quotation mark
+chaos,NOUN,NN,dobj,"noun, singular or mass"
+"""",PUNCT,'',punct,closing quotation mark
+in,ADP,IN,prep,"conjunction, subordinating or preposition"
+the,DET,DT,det,determiner
+lower,ADJ,JJR,amod,"adjective, comparative"
+courts,NOUN,NNS,pobj,"noun, plural"
+.,PUNCT,.,punct,"punctuation mark, sentence closer"
